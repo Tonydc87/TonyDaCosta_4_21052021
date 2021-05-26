@@ -1,0 +1,23 @@
+1 etape : Remplir tableau // Plusieur colonne // Catégorie : refer (positionnement google) / accessibilité (personne en situation hadicap) / performance (taille et vitesse) (souvent plusieurs)
+
+2eme colonne quel probleme 
+
+3eme explication 
+
+4eme : bonne pratique
+
+5eme : action recommandation (coché si ça fait partie des reco ou non) 
+
+6eme : différente source
+
+Tableau excel // rapport d'optimisation (ppt ou pdf) 
+
+10 reco à cocher // 20 probleme (10 reco et 10 que je corrige pas)
+
+
+reco : 1 sur acce / 1 sur perf minimum 
+
+check list accessibilité fournis // liste de point à vérifier 
+
+implémenter (ajouter les reco) capture d"cran avant après.
+
