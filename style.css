@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -776,10 +776,17 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+    background-color: #000000;
+    border-radius: 15px;
+    padding: 10px;
+    
+    width: fit-content;
+    text-align: center;
+    margin: 10px auto;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #fd8852;
     color: #FFFFFF!important;
 }
 
@@ -818,7 +825,7 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/Modif/la-chouette-agence-banniere.jpg");
 }
 
 .bg-presentation {
