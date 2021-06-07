@@ -362,6 +362,8 @@ a:hover {
     z-index: 2;
 }
 
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -729,6 +731,19 @@ h1 {
 h4 {
     color: #333333!important;
 }
+
+.col-xs-12 em{
+    font-size: 25px;
+}
+
+.col-xs-12 p{
+    font-size: 14px;
+}
+
+.col-sm-12 h3{
+    font-size: 20px;
+}
+
 
 .icons {
     margin-bottom: 14px;
