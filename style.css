@@ -1059,3 +1059,12 @@ h4 {
         text-align: center;
     }
 }
+
+
+/*----- RAPPORT SEO -----*/
+
+
+/*Supprimer une fois les liens vers vos pages intégré au code HTML ligne 223 à 243*/
+.row .row-no-gutters .social{
+    visibility: hidden;
+}
