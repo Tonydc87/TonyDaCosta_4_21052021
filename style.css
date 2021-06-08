@@ -91,7 +91,6 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -799,7 +798,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #fd8852;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1064,7 +1063,21 @@ h4 {
 /*----- RAPPORT SEO -----*/
 
 
-/*Supprimer une fois les liens vers vos pages intégré au code HTML ligne 223 à 243*/
+/* A supprimer une fois les liens vers vos pages seront intégrés au code HTML ligne 223 à 243*/
 .row .row-no-gutters .social{
     visibility: hidden;
 }
+
+/*--Gestion des contrastes--*/
+
+.tc-white{
+    background-color: #000000;
+    border-radius: 25px;
+}
+
+/*--taille des polices--*/
+
+h5{
+    font-size: 20px;
+}
+
