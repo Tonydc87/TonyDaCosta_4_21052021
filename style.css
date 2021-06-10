@@ -1021,7 +1021,11 @@ footer .text-center{
 footer .text-center p{
     color: black;
 }
-
+ .direction{
+     color: black;
+     text-align: center;
+     font-weight: bolder;
+ }
 
 
 /*--Gestion des marges--*/
