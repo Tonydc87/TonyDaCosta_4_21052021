@@ -1022,7 +1022,10 @@ footer .text-center p{
     color: black;
 }
  .direction{
+     width: 100%;
+     display: flex;
      color: black;
+     justify-content: center;
      text-align: center;
      font-weight: bolder;
  }
