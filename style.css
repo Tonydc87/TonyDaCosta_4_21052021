@@ -1035,9 +1035,13 @@ footer .text-center p{
 
 
 
-/*--Gestion des marges--*/
-@media screen and (min-width: 790px){
-    
+/*--MEDIAQ--*/
+
+@media screen and (min-width: 770px){
+     
+  .book img{
+      width: 50%;
+  }   
     
     
     }
