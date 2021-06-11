@@ -762,6 +762,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    object-fit: cover;
 }
 
 .portfolio-row {
@@ -1031,20 +1032,14 @@ footer .text-center p{
  }
 
 
-/*--Gestion des marges--*/
-@media (min-width: 768px){
 
-    .col-xs-12 em{
-        width: 90%;
-        margin: auto;
-        padding-left: 0px;
+
+/*--Gestion des marges--*/
+@media screen and (min-width: 790px){
+    
+    
+    
     }
-    .img-responsive img{
-        object-fit: cover;
-    }
-    .img-responsive .portfolio-thumb {
-        width: 70%;
-    }
-}
+       
 
 
