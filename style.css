@@ -359,12 +359,20 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+#bloc-7 > h2{
+    margin-left: 15px;
+    
+}
 
-/*----recommandation optimisation contenu----*/
+#bloc-7 > div{
+    padding-top: 10px;
+}
 
-
-
-
+.row{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -866,8 +874,7 @@ h4 {
     h6,
     p,
     #disqus_thread {
-        padding-left: 10px!important;
-        padding-right: 10px!important;
+       
     }
     .b-parallax {
         background-attachment: scroll;
@@ -992,6 +999,14 @@ h4 {
     }
 }
 
+.col-sm-12 h1{
+    width: 60%;
+}
+
+#bloc-0 > div > nav > ul > li > a{
+    width: 90%;
+}
+
 
 /*----- RAPPORT SEO -----*/
 
@@ -1041,7 +1056,13 @@ footer .text-center p{
      
   .book img{
       width: 50%;
-  }   
+  }  
+} 
+
+  @media screen and (max-width: 770px){
+  #bloc-6 > div > div > div > h1{
+      font-size: 25px;
+  }
     
     
     }
