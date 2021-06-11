@@ -746,7 +746,9 @@ h4 {
     font-size: 20px;
 }
 
-
+.col-sm-6 p{
+    color: black;
+}
 
 .icons {
     margin-bottom: 14px;
