@@ -746,12 +746,7 @@ h4 {
     font-size: 20px;
 }
 
-.col-sm-6 p{
-    color: black;
-   
-    
 
-}
 
 .icons {
     margin-bottom: 14px;
@@ -845,9 +840,7 @@ h4 {
     background-image: url("img/dots-bg.png");
 }
 
-.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
-}
+
 
 .bg-banniere {
     background-image: url("img/Modif/la-chouette-agence-banniere.jpg");
